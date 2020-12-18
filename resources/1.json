@@ -1,0 +1,123 @@
+{
+    "ad_ctx": {
+        "request_id": "1566375289092q172a22a51a82q14505",
+        "resource_id": 3170,
+        "source_id": 3172,
+        "index": 0,
+        "is_ad": false,
+        "cm_mark": 2,
+        "card_index": 4,
+        "client_ip": "1.2.3.4",
+        "is_ad_loc": true,
+        "creative_id": 24502573,
+        "dynamic_id": 16
+    },
+    "ad_info": {
+        "creative_id": 24502573,
+        "creative_type": 0,
+        "ad_cb": "CKqeBxDIiB0YrcLXCyAAKAEwqQk45BhCIDE1NjYzNzUyODkwOTJxMTcyYTIyYTUxYTgycTE0NTA1SITC+JnLLVIG5LiK5rW3WgbkuIrmtbdiBuS4reWbvWgCcAB4gICAgOARgAFkiAEAkgEHMS4yLjMuNJoBjwRhbGw6ZGVmYXVsdCxlY3BtOmRlZmF1bHQsY3BjVGFnRmlsdGVyOnVuZGVmaW5lZCxlbmhhbmNlQ3RyUUZhY3RvcjpzcXVhcmUsYWRNZWNoYW5pc21Nb25pdG9yOm90aGVyLHBsYXlwYWdlY3RyOmVuYWJsZSx1cF9yZWNfZmxvd19jb250cm9sOnVuZGVmaW5lZCxicnVzaF9kdXBsaWNhdGU6ZGVmYXVsdCxwY3RyX2NwbTpjcG0scGN0cl92MjpvdXRlcl9hZF9wcmlvcml0eSxkeW5hbWljX2Zsb3dfY29udHJvbDpzcGxpdCB0aGUgZmxvdyBieSBtaWQscGN2cjpib3RoX2FfMV9iXzAuMDVfY18xX2ZfMV8xLjUsZnJlcUxpbWl0OmRlZmF1bHQsc21hbGxDb25zdW1lVW5pdDpkZWZhdWx0LG91dGVyQmVhdElubmVyOmVuYWJsZSxvdXRlclF1aXQ6ZGVmYXVsdCxmZHNfcnR0OmRlZmF1bHQsY3BhOmNwYSxpbmRpc19VVjp1bmRlZmluZWQsaGFzaF9pbmRpc19VVjp1bmRlZmluZWQsZG1wX2Nyb3dkX2V4cDpkZWZhdWx0LGRtcF9hZ2VfZ2VuZGVyX2V4cDp1bmRlZmluZWQsbnRoX2JydXNoX2V2ZW50OmRlZmF1bHQscGxhdGZvcm06ZGVmYXVsdKAB////////////AagBALIBIG5WvdKSbiSDqvHX4jHYDaAny3GWg7591hiAe8B5rnOqugFBaHR0cHM6Ly9tYW5nYS5iaWxpYmlsaS5jb20vbS9kZXRhaWwvbWMyNjAwOT9wZWdhc3VzX2Rvd25sb2FkPXRydWXCAQDSAQDYAY4B4AGck+vcA+gBnJPr3APwAQD4AQCAAgKIAgC4Av////8PwAIAyAIA0AIA2AIA6gIEZmVlZPACAPgCAIIDC2ZlZWRfb3JpZ2luiAMAkgMEY29sZKgDALADALgDAA==",
+        "card_type": 28,
+        "extra": {
+            "show_urls": [],
+            "click_urls": [
+                "https://manga.bilibili.com/twirp/activity.v1.Activity/OnAdvertiseCallback?track_id=S8yAQJNc-e5Kaf5dZwc7yBTfVFW2lO79DjB8YybKHLgYxvu2-vVdztJugHdBjprEOTzv96sLdGoY0SYLK8vednsssytSovT1dHVFZQWVN5gLBhU04sSYZMW8kgjv3ugtlepdFxKkb4HMSF7AhNRtAA60z6cveDEXQplEoHecHu0%3D&creative_id=24502573&os=0&imei=__IMEI__&mac1=c67705109e1323b40198248993171bec&idfa=__IDFA__&aaid=__AAID__&android_id=72eb81a16d87b2deb8ba058c0caa9b21&ip=1.2.3.4&ua=Dalvik%252F2.1.0%2B%2528Linux%253B%2BU%253B%2BAndroid%2B8.1.0%253B%2BMI%2B6X%2BMIUI%252FV10.2.1.0.ODCCNXM%2529&ts=__TS__"
+            ],
+            "use_ad_web_v2": false,
+            "card": {
+                "adver": {
+                    "adver_id": 326499679,
+                    "adver_logo": "http://i2.hdslb.com/bfs/face/8b2c6caec32a9731aee253a81a0ef99c0a6396f9.jpg",
+                    "adver_name": "哔哩哔哩漫画",
+                    "adver_type": 1,
+                    "adver_page_url": "https://m.bilibili.com/space/326499679",
+                    "adver_desc": "推荐了"
+                },
+                "dynamic_text": "#《辉夜大小姐》漫画限时全本免费看# 坦诚相待，毫不隐瞒，那就是，我能给会长的浪漫。",
+                "card_type": 37,
+                "title": "坦诚相待，毫不隐瞒，那就是，我能给会长的浪漫坦诚相待，毫不隐瞒，那就是，我能给会长的浪漫",
+                "covers": [
+                    {
+                        "url": "https://i0.hdslb.com/bfs/sycp/creative_img/201908/66c7b3f6b04095d5578cbfbe80855b87.jpg",
+                        "image_height": 540,
+                        "image_width": 960
+                    }
+                ],
+                "video": {
+                    "avid": 40155989,
+                    "avid1": 0,
+                    "cid": 70525984,
+                    "cid1": 0,
+                    "page": 0,
+                    "from": "vupload",
+                    "url1": "http://upos-ssaxcode.acgvideo.com/m190522wsx2m85ywl06icniyuxt72c0g-1-SiteTool_540.mp4",
+                    "url2": "http://upos-ssaxcode.acgvideo.com/i181029tx13o0n5qyvqw1m3rdpxkyoxz-1-SPLASH.mp4",
+                    "url": "https://upos-ssaxcode.acgvideo.com/m191022ws2k5inxrkpw1bdcxm61l76jo-1-SiteTool_1080.mp4",
+                    "cover": "https://i0.hdslb.com/bfs/sycp/creative_img/201907/23289cd64492e048f038a1a7f5943741.png_960x540.png",
+                    "btn_dyc_time": 5000,
+                    "auto_play": true,
+                    "btn_dyc_color": false,
+                    "biz_id": 2104
+                },
+                "button": {
+                    "dlsuc_callup_url": "ctrip://wireless/schedule",
+                    "jump_url1": "http://172.16.38.84:9999/BusinessFactory/app/apk/kaola.apk",
+                    "jump_url": "http://www.baidu.com",
+                    "report_urls": [
+                        "http://v.admaster.com.cn/i/a77027,b1366621,c3297,i0,m202,8a2,8b2,0a__OS__,n__MAC__,nn__MAC1__,z__IDFA__,o__OPENUDID__,0d__ANDROIDID__,0c__IMEI__,f__IP__,t__TS__,q__OSVS__,r__TERM__,0i__MUDS__,0h__MUID__,0v__ISOFFLINE__,s__ADWH__,1b__CUSTOMV1__,1a__CUSTOMV2__,hreqWidth__REQ_WIDTH__,reqHeight__REQ_HEIGHT__,width__WIDTH__,height__HEIGHT__,downx__DOWN_X__,downy__DOWN_Y__,upx__UP_X__,upy__UP_Y__,report"
+                    ],
+                    "text1": "查看详情",
+                    "type": 1
+                },
+                "jump_url1": "https://manga.bilibili.com/m/detail/mc26009?pegasus_download=true",
+                "jump_url": "bilibili://ad/page/imax?page_id=173195502401413120",
+                "callup_url": "",
+                "ad_tag_style1": {
+                    "type": 3,
+                    "text": "漫画·推广",
+                    "text_color": "#747679",
+                    "bg_border_color": ""
+                },
+                "agree_status": false,
+                "agree_num": 0,
+                "comment_num": 0
+            },
+            "appstore_priority": 0,
+            "sales_type": 12,
+            "preload_landingpage": 0,
+            "special_industry_tips": "",
+            "download_whitelist": [
+                {
+                    "apk_name": "com.kaola",
+                    "url": "http://172.16.38.84:9999/BusinessFactory/app/apk/kaola.apk",
+                    "size": 56289530,
+                    "display_name": "kaola.apk",
+                    "md5": "871fda9f81b6d2ec2141d2868cc7c43d",
+                    "icon": "https://i0.hdslb.com/bfs/test/app_icon/201712/7e46d64c6d30c27dd6b1ba12b293979d.png.xxx"
+                },
+                {
+                    "url": "*"
+                }
+            ],
+            "open_whitelist": [
+                "dianping",
+                "kaola",
+                "vipshop",
+                "ctrip",
+                "bilibili",
+                "mqq",
+                "openapp.jdmobile",
+                "taobao",
+                "tbopen",
+                "tmall",
+                "weixin",
+                "alipays",
+                "sinaweibo",
+                "pinduoduo",
+                "SNKRS",
+                "booking",
+                "yohobuy"
+            ],
+            "special_industry": false
+        }
+    }
+}
