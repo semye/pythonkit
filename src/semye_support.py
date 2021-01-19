@@ -31,9 +31,9 @@ def support_logs(text):
     print("当前文件名是:" + os.path.basename(__file__) + ";Log:" + text)
 
 
-def fib(max):
+def fib(number_max):
     n, a, b = 0, 0, 1
-    while n < max:
+    while n < number_max:
         print(b)
         a, b = b, a + b
         n = n + 1
