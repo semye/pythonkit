@@ -1,7 +1,7 @@
 import keyword
 import os
 import requests
-from src import semye_support
+import semye_support
 from bs4 import BeautifulSoup
 
 

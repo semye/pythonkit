@@ -12,4 +12,4 @@ fileList = os.listdir(dirPath)
 for fileItem in fileList:
     print(fileItem.title().lower())
     if fileItem.endswith('.json'):
-        os.rename(fileItem, "../resources/rename1.json")
+        os.rename(fileItem, "resources/rename1.json")
