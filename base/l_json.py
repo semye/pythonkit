@@ -1,7 +1,7 @@
 # json 模块用法
 import json
 
-file = open("./resources/1.json", "r")
+file = open("../resources/1.json", "r")
 # json.loads 操作字符串
 # json.load 操作字符流
 data = json.load(file)

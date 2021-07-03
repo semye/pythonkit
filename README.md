@@ -8,3 +8,6 @@ source venv/bin/activate
 
 2. 退出虚拟环境
 deactivate
+   
+
+requirements.txt 

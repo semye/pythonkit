@@ -11,7 +11,7 @@ def get_html_text():
     url = "https://lol.qq.com/data/info-heros.shtml"
     html = requests.get(url).text
     soup = BeautifulSoup(html, "html.parser")
-    data = soup.find(id='champion_list').findAll('li')
+    data = soup.find(id='jSearchHeroDiv').findAll('li')
     return data
 
 
